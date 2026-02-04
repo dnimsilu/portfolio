@@ -1,10 +1,10 @@
 # Data Scientist
 
-
 ### Education
 physical science Bsc
 
 ### Work Experince 
+
 Outbound logistic intern at INSEE
 Production Statistics At Star|
 Inter Data Science at star
@@ -14,4 +14,5 @@ Inter Data Science at star
 -project 3
 
 ###Projects
+
 Recommendation system
